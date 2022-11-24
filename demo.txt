@@ -1,0 +1,9 @@
+Using Properties - C# Programming Guide - Microsoft Learnhttps://learn.microsoft.com › ... › Classes and structs
+04-Nov-2022 — The get and set accessors for the same property may have different access modifiers. For example, the get may be public to allow read-only ...
+‎The get accessor · ‎The set accessor
+
+Properties - C# Programming Guide - Microsoft Learnhttps://learn.microsoft.com › ... › Classes and structs
+29-Sept-2022 — In some cases, property get and set accessors just assign a value to or retrieve a value from a backing field without including any extra logic.
+
+
+demotext check for this file 
